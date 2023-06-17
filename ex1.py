@@ -1,3 +1,5 @@
+# Write a program that draws a rectangle or an oval. The user selects a figure from a radio button and specifies whether it is filled by selecting a check button
+
 from tkinter import *
 
 class RectOval:
