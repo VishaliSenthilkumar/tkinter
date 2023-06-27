@@ -3,8 +3,8 @@
 
 from tkinter import *                        # import all definitions from tkinter
 
-# The tkinter module contains the classes for creating GUIs. The Tk class creates a
-# window for holding GUI widgets (i.e., visual components).
+# The tkinter module contains the classes for creating GUIs. 
+# The Tk class creates a window for holding GUI widgets (i.e., visual components).
 
 root = Tk()                                   # create a window
 
